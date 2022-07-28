@@ -4,7 +4,7 @@
 
 1. Import the widget
 ```html
-<script type="module" src="https://cdn.jsdelivr.net/gh/LogSnag/Feedback@main/dist/feedback.es.js"></script>
+<script type="module" src="https://cdn.jsdelivr.net/gh/LogSnag/Feedback@main/dist/feedback.umd.js"></script>
  ```
  
  
