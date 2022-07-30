@@ -7,7 +7,7 @@
 
 1. Import the widget
 ```html
-<script type="module" src="https://cdn.jsdelivr.net/gh/LogSnag/Feedback@v0.0.7/dist/feedback.umd.js"></script>
+<script type="module" src="https://cdn.jsdelivr.net/gh/LogSnag/Feedback@v0.0.8/dist/feedback.umd.js"></script>
  ```
  
  
