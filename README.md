@@ -39,11 +39,12 @@ You may add custom tags to your feedback widget by adding the following data tag
 >
   Feedback
 </button>
+```
 
 ### Important Make sure your API token is set to Public.
+
 <img
   width="912"
   alt="Screen Shot 2022-07-28 at 1 34 17 PM"
   src="https://user-images.githubusercontent.com/23535123/181601494-93396b89-67da-4538-b535-557b68af12d3.png"
 />
-```
